@@ -72,7 +72,7 @@ const Contact = () => {
           </div>
 
           {/* Footer */}
-          <div className="contact-box">
+          {/* <div className="contact-box">
             <h2>
               Designed and Developed <br /> by <span>Manish Chavan</span>
             </h2>
@@ -80,7 +80,7 @@ const Contact = () => {
             <h5>
               <MdCopyright /> 2026
             </h5>
-          </div>
+          </div> */}
 
         </div>
       </div>

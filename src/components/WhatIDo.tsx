@@ -97,10 +97,10 @@ const WhatIDo = () => {
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Angular</div>
+                <div className="what-tags">JavaScript</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">RxJS</div>
                 <div className="what-tags">NgRx</div>
-                <div className="what-tags">JavaScript</div>
                 <div className="what-tags">HTML5</div>
                 <div className="what-tags">CSS3 / SCSS</div>
                 <div className="what-tags">Responsive UI</div>
@@ -142,6 +142,7 @@ const WhatIDo = () => {
                 <div className="what-tags">GraphQL</div>
                 <div className="what-tags">MongoDB</div>
                 <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">MySql</div>
                 <div className="what-tags">Redis</div>
                 <div className="what-tags">JWT / OAuth2</div>
                 <div className="what-tags">Docker</div>
